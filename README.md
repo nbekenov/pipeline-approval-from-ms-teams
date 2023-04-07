@@ -5,18 +5,6 @@ Execute Approvals of CodePipeline stages from MS Teams.
 ## Description
 
 With increasing number of pipelines running in multiple accounts for different applications it becomes difficult to manage all approvals. This solution enables you to approve CodePipeline stages in a centralized way using MS Teams. 
-This APG is primarily focused on explaining architecture and providing example of Lambda function code that could be used in different projects.
-
-This solution provides several key benefits:
-* Improved efficiency: By enabling pipeline approvers to approve or reject pipeline stages from within MS Teams, this solution eliminates the need for approvers to switch between different tools or environments. This saves time and improves productivity, enabling teams to move faster and more efficiently.
-
-* Streamlined workflows: By integrating pipeline approvals into existing MS Teams workflows, this solution enables teams to manage approvals more seamlessly and efficiently. This improves communication and collaboration across teams, helping to ensure that everyone is on the same page.
-
-* Enhanced transparency: By providing a clear, easily accessible record of pipeline approvals and rejections, this solution improves transparency and accountability. This enables teams to identify and address bottlenecks or issues in the approval process, and to improve overall process efficiency and effectiveness.
-
-* Customizable and extensible: This solution is highly customizable and extensible, enabling teams to tailor it to their specific needs and workflows. This flexibility allows teams to adapt the solution to changing requirements or new use cases, ensuring that it remains relevant and effective over time.
-
-Overall, the benefits of this solution include improved productivity, enhanced collaboration and communication, and greater flexibility and agility in managing your AWS CodePipeline workflows.
 
 ## Requirements
   - AWS Account with existing pipeline in AWS CodePipeline
